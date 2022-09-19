@@ -1,0 +1,7 @@
+{
+    "orderID":"90ce20cb-b8bc-404c-bc00-22839e5cb371",
+    "userID":"adb8c447-33e1-47ad-a51b-f3f6a12fe41c",
+    "pizzas":["76c4b906-0172-43bf-88f8-838ad173f6c1","0550cf96-c602-46bb-bc8f-5119a1eddad6"],
+    "pizzasQuantity":[1, 2],
+    "status":"onTheWay"
+}

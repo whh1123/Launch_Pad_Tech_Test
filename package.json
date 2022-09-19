@@ -1,0 +1,28 @@
+{
+  "name": "launch_pad_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinwenjie123/Launch_Pad_Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinwenjie123/Launch_Pad_Practice/issues"
+  },
+  "homepage": "https://github.com/jinwenjie123/Launch_Pad_Practice#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
